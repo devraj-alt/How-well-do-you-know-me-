@@ -1,0 +1,16 @@
+{
+  "name": "How-well-do-you-know-me-1",
+  "version": "1.0.0",
+  "description": "* __Good commit messages__ * __Update README with details of the project__ * __Update URL of the REPL in Github__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  }
+}
